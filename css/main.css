@@ -271,7 +271,7 @@ a.mobile-btn{
 
 
 .name-profile h5{
-    font-size: 28px;
+    font-size: 26px;
     left: -8px;
     padding-top: 10px;
     position: relative;
@@ -350,6 +350,10 @@ a.mobile-btn{
 
 .block-about ul.info span {
 	color:#333333;
+}
+
+ul.socials {
+    font-size: 28px;
 }
 
 .socials li {
@@ -1830,7 +1834,7 @@ ul.latest-post a i {
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
 	.block-background-image{background-attachment: scroll;background-position:top center !important;}
 	body{font-size: 13px;}
-	.block-teaser h1{font-size:40px;}
+	.block-teaser h1{font-size:40px;line-height:36px;}
 	.block-teaser h3{font-size: 14px;}
 	h2.title{font-size:28px;}
 	.img-profile img, .menu li a i{display:none;}
@@ -1894,7 +1898,7 @@ ul.latest-post a i {
 @media only screen and (max-width:479px) {
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
 	.block-background-image{background-attachment: scroll;background-position:top center !important;}
-	.block-teaser h1{font-size:40px;}
+	.block-teaser h1{font-size:40px; line-height:36px;}
 	h2.title{font-size:28px;}
 	.img-profile img, .menu li a i{display:none;}
 	p.short-email{text-align:left;margin-top:10px;}
